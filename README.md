@@ -1,12 +1,12 @@
-# Project title and description
+# Workshop Wednesdays
 
-Include a project description that explains **what** your project is and **why** it exists. Aim for no more than 3-5 concise sentences. For example, you might say:
+Purpose of project “Workshop Wednesday” is to create a specialized platform/application for recording live streaming video lectures and workshops delivered on a dedicated platform created by Hack for LA and seamlessly integrating the backend with a scheduler and basic video editor to upload the videos on You-Tube Channel post getting automatically edited as per supervised inputs on a specified time. It aims to replace traditional method of manual intervention for editing & scheduling the videos which is generally cumbersome and time-consuming.
 
-{Project Name} is a project of Hack for LA. Hack for LA is a brigade of a Code for America that exists to {your mission}. {Project Name} helps {target users} accomplish {goal of project}. The {app/site/thing you're building}'s main features include {very brief feature descriptions}.
+
 
 ### Project context
 
-Civic projects often exist within a larger context that may include multiple stakeholders, historic relationships, associated research, or other details that are relevant but not *required* for direct contributions. Gathering these details in one place is useful, but the ReadMe isn't that place. Use this section to [link to a Google Doc](#) or other documentation repository where contributors can dig in if they so choose. This is also a good place to link to your Code of Conduct.
+Workshop Wednesdays details : Click https://docs.google.com/document/d/1zA80t5NDyd4i7Mb5IMQNyCSI0hSoAY8SocbEVi3fI4A/edit?usp=sharing[link to a Google Doc](#) 
 
 ### Technology used
 
