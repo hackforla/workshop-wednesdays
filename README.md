@@ -16,13 +16,10 @@ Workshop Wednesdays details : Click https://docs.google.com/document/d/1zA80t5ND
 
 
 # How to contribute
+Technology Used :
 
-Explain the different ways people can contribute. For example:
-
-- Join the team {on Slack/at our weekly hack night/etc}.
-- To help with user research, {do ABC}.
-- To provide design support, {do XYZ}.
-- To contribute to the code, follow the instructions below.
+Git Hub-Product Management Repo
+Google Drive -Slack
 
 Remember to provide direct links to each channel.
 
