@@ -6,7 +6,7 @@ Purpose of project “Workshop Wednesday” is to create a specialized platform/
 
 ### Project context
 
-Workshop Wednesdays details : Click https://docs.google.com/document/d/1zA80t5NDyd4i7Mb5IMQNyCSI0hSoAY8SocbEVi3fI4A/edit?usp=sharing[link to a Google Doc](#) 
+Workshop Wednesdays details : [Workshop Wednesdays One Sheet](https://docs.google.com/document/d/1zA80t5NDyd4i7Mb5IMQNyCSI0hSoAY8SocbEVi3fI4A/edit?usp=sharing) 
 
 ### Technology used
 
