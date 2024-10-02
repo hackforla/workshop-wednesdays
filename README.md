@@ -17,8 +17,7 @@ Workshop Wednesdays details : [Workshop Wednesdays One Sheet](https://docs.googl
 
 # How to contribute
 Technology Used :
-
-- GitHub"
+- GitHub
 - Product Management Repo:
 - Google Drive: 
 - Slack: 
