@@ -18,8 +18,10 @@ Workshop Wednesdays details : [Workshop Wednesdays One Sheet](https://docs.googl
 # How to contribute
 Technology Used :
 
-Git Hub-Product Management Repo
-Google Drive -Slack
+- GitHub"
+- Product Management Repo:
+- Google Drive: 
+- Slack: 
 
 Remember to provide direct links to each channel.
 
